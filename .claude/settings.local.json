@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm uninstall:*)",
+      "Bash(find:*)",
+      "Bash(ls:*)",
+      "Bash(npm run build:*)",
+      "Bash(npx tsc:*)",
+      "WebFetch(domain:cdn.dribbble.com)",
+      "Bash(curl:*)",
+      "Bash(dir:*)",
+      "Bash(powershell -command:*)",
+      "Bash(type \"C:\\\\Users\\\\Krishna\\\\New folder \\(8\\)\\\\untitled-ui\\\\public\\\\feature-card-1.jpg\")",
+      "Bash(findstr:*)",
+      "Bash(more:*)",
+      "Bash(del \"C:\\\\Users\\\\Krishna\\\\New folder \\(8\\)\\\\untitled-ui\\\\public\\\\feature-card-1.jpg\")",
+      "Bash(grep:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
